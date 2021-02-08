@@ -9,6 +9,7 @@ public class ParkingApp {
 		for(int i=0;i<100;i++) {
 			slot[i] = new Parking();
 		}
+		//to check for boolean value
 		boolean avail = false;
 		int vno=0;
 		String entry="";
